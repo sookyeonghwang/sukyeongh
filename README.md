@@ -12,7 +12,3 @@
 ### About Me
 
 <a href="https://velog.io/@hsk10271" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFCA28?style=flat-square&logo=velog&logoColor=white"/></a>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukyeongh&show_icons=true&theme=buefy)
