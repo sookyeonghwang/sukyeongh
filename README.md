@@ -8,7 +8,3 @@
 
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
-
-### About Me
-
-<a href="https://velog.io/@hsk10271" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFCA28?style=flat-square&logo=velog&logoColor=white"/></a>
